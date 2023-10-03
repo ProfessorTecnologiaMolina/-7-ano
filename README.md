@@ -1,4 +1,4 @@
 # Projeto Tradutor
 
-# -7-ano
+# -7º -ano
 Tecnologia e Inovação
